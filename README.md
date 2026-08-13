@@ -4,8 +4,6 @@
 ### AI for the Future of Thai Education — JUMP Thailand Hackathon 2026
 
 [![Static Badge](https://img.shields.io/badge/JUMP_Thailand-2026-blue)](https://www.jumpthailand.com)
-![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-Embedded-03234B?logo=stmicroelectronics&logoColor=white)
 
 <br>
 
