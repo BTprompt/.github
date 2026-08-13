@@ -6,10 +6,6 @@
 [![Static Badge](https://img.shields.io/badge/JUMP_Thailand-2026-blue)](https://www.jumpthailand.com)
 
 <br>
-
-### 🏠 <a href="README.md">Home</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-bhirabhat.md">Bhirabhat's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-songpol.md">Songpol's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-theeranon.md">Theeranon's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warawich.md">Warawich's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warakorn.md">Warakorn's Port</a>
-
-<br>
 </div>
 
 ## 🎯 ปัญหาที่เราแก้ (Problem Statement)
