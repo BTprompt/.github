@@ -7,7 +7,7 @@
 
 <br>
 
-### 🏠 <a href="README.md">Home</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-pirapat.md">Pirapat's Portfolio</a> &nbsp; | &nbsp; 🎨 <a href="portfolio-member2.md">[ชื่อเพื่อน 2] Portfolio</a> &nbsp; | &nbsp; 📊 <a href="portfolio-member3.md">[ชื่อเพื่อน 3] Portfolio</a>
+### 🏠 <a href="README.md">Home</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-bhirabhat.md">Bhirabhat's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-songpol.md">Songpol's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-theeranon.md">Theeranon's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warawich.md">Warawich's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warakorn.md">Warakorn's Port</a>
 
 <br>
 </div>
@@ -21,11 +21,13 @@
 | **[🔗 [ชื่อโปรเจกต์ของทีม]](https://github.com/orgname/repo)** | [สรุปสิ่งที่จะทำไปแข่ง 1 บรรทัด เช่น แพลตฟอร์มวิเคราะห์การเรียนรู้ของนักเรียนด้วย AI] |
 
 ## 👥 สมาชิกในทีม (Team Members)
-| ชื่อ | บทบาทในทีม | ความถนัด / Tech Stack | พอร์ตโฟลิโอส่วนตัว |
+| ชื่อ | บทบาทในทีม | ความถนัด / Tech Stack | พอร์ตโฟลิโอ |
 |---|---|---|---|
-| **Pirapat Klomjit** | Robotics & Software Engineer | ROS 2 Humble, STM32, React, Supabase | [👉 ดูผลงาน (Click)](#-pirapats-portfolio) |
-| **[ชื่อเพื่อนคนที่ 2]** | [เช่น UI/UX Designer] | [เช่น Figma, Canva, User Research] | [👉 ดูผลงาน (Click)](#-ชื่อเพื่อน-2-portfolio) |
-| **[ชื่อเพื่อนคนที่ 3]** | [เช่น Business / Pitching] | [เช่น Business Model, Marketing] | [👉 ดูผลงาน (Click)](#-ชื่อเพื่อน-3-portfolio) |
+| **Bhirabhat Klomjit (ภิรภัทร กล่อมจิต)**<br>✉️ bhirabhat.klom@mail.kmutt.ac.th<br>🐙 [@Peaxtt](https://github.com/Peaxtt) | [ระบุหน้าที่ เช่น Robotics & System Engineer] | [เช่น ROS 2, STM32, React] | [👉 ดูผลงาน](portfolio-bhirabhat.md) |
+| **Songpol Maneechot (ทรงพล มณีโชติ)**<br>✉️ Songpol.manee@kmutt.ac.th | [ระบุหน้าที่ เช่น AI / Data Engineer] | [ระบุความถนัด เช่น Python, AI] | [👉 ดูผลงาน](portfolio-songpol.md) |
+| **Theeranon Thummachotvarasiri (ธีรานนท์ ธรรมโชติวรศิริ)**<br>✉️ theeranon.thum@mail.kmutt.ac.th | [ระบุหน้าที่ เช่น Backend Developer] | [ระบุความถนัด เช่น Node.js, Database] | [👉 ดูผลงาน](portfolio-theeranon.md) |
+| **Warawich Silayong (วราวิชญ์ ศิลายงค์)**<br>✉️ nookwarawich@gmail.com | [ระบุหน้าที่ เช่น Frontend Developer] | [ระบุความถนัด เช่น UI/UX, React] | [👉 ดูผลงาน](portfolio-warawich.md) |
+| **Warakorn Saewu (วรากร แซ่หวู่)**<br>✉️ warkorn.saew@kmutt.ac.th | [ระบุหน้าที่ เช่น Business / Pitching] | [ระบุความถนัด เช่น Pitching, PM] | [👉 ดูผลงาน](portfolio-warakorn.md) |
 
 ---
 <div align="center">Made with 🧠 for Thai Education</div>
