@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- 🖼️ ใส่รูป Banner ของทีมขนาด 1280x400 ที่โฟลเดอร์ assets -->
-<img src="https://via.placeholder.com/1280x400.png?text=Team+Banner+For+JUMP+Thailand+2026" alt="Team Banner" width="100%">
-
 # BTPrompt
 ### AI for the Future of Thai Education — JUMP Thailand Hackathon 2026
 
