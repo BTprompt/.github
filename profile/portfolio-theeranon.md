@@ -7,7 +7,7 @@
 <!-- TODO: add avatar-theeranon.jpg once a headshot is available, same as Warakorn's -->
 
 <h1 align="center">Theeranon Thummachotvarasiri (Pond)</h1>
-<h3 align="center">Full-Stack Hardware & Systems Engineer</h3>
+<h3 align="center">Team Leader & Software developer</h3>
 <p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
