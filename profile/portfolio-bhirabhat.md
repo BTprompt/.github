@@ -36,15 +36,16 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 
 **Professional work (FIBO, part-time)**
 
-**Industrial IoT — Flagship**
-> **Yokogawa — Real-Time LiDAR Stockpile Monitoring:** Built the full backend for a warehouse system tracking bulk-material pile volume from 8× Livox Mid-360 LiDARs — a 6-table Supabase schema, an IoU+centroid identity-tracking algorithm that keeps a pile's identity across scans as it's partially removed, a FastAPI service after PostgREST hit its limits, and an ISO 17757-aligned logging pipeline (Loki + InfluxDB + Grafana) with fail-safe queued delivery. Ran April through July.
+**Database & Backend — Flagship**
+> **Yokogawa — Real-Time LiDAR Stockpile Monitoring:** Built the DB/backend platform for a warehouse system tracking bulk-material pile volume from 8× Livox Mid-360 LiDARs. The work order called for a Supabase pile-data platform with FIFO pile grouping; implementing it surfaced that Supabase's auto-generated API (PostgREST) couldn't run the needed business logic (fill-% from height-map sums, in-DB state transitions). Rebuilt it as a dedicated FastAPI service (`pile_monitor`) driving a **priority-ordered pile-slot state machine** (filling_up → prioritized → disappearing → cleared, slots queued by distance-to-furnace) — a more robust replacement for the originally-specified FIFO grouping. Also designed the 6-table schema, the IoU+centroid identity-tracking algorithm that keeps a pile's identity across scans as it's partially removed, and an ISO 17757-aligned logging pipeline (Loki + InfluxDB + Grafana). Ran April through July.
 
 **Robot Interface (Facobot AMR)**
 > **Facobot Control System:** Designed the operator interface for a warehouse AMR forklift — a React 19 app talking to a custom Python ROS 2 bridge node, with velocity jogging, Nav2 waypoint missions, and fleet management synced live to Supabase. Built a software safety layer (locked "Safe State," WebSocket watchdog, dead-man's-switch braking). A later DevOps audit cut the Docker image from 600+ MB to 94 MB and idle RAM from ~300 MB to 15 MB.
-> <br><br> <img src="assets/bhirabhat/Facobot-Robot.jpg" height="220"/>
+> <br><br> <img src="assets/bhirabhat/Facobot-Robot.jpg" height="220"/> <img src="assets/bhirabhat/facobot-manual-ui.jpg" height="220"/>
 
 **Robotics Visualization**
 > **B2 Web RViz (PTTEP):** Built a browser-based replacement for desktop RViz to teleoperate a Unitree B2 quadruped from an iPad, no local ROS 2 install needed. React Three Fiber renders live LiDAR point clouds and an accumulating occupancy map entirely outside React's render cycle, plus MJPEG camera streaming and Nav2 waypoint following.
+> <br><br> <img src="assets/bhirabhat/b2-pointcloud-rviz.jpg" height="220"/>
 
 **Navigation Math**
 > **Peplink GPS–Odometry Alignment:** Built a ROS 2 node aligning outdoor GPS with robot odometry — HDOP-weighted covariance estimation, a weighted SVD solver between GPS and odometry frames, and covariance rotation so RViz error ellipses reflect the true motion axes.
