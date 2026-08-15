@@ -25,7 +25,7 @@
 | <a href="https://github.com/Pond141205"><img src="https://github.com/Pond141205.png" width="60px;" alt="Theeranon Thummachotvarasiri"/><br /><sub><b>Theeranon T.</b></sub></a> | 📧 theeranon.thum@mail.kmutt.ac.th<br>🐙 [@Pond141205](https://github.com/Pond141205) | Null | - | [![View](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge)](portfolio-theeranon.md) |
 | <a href="https://github.com/nookwarawich2109"><img src="https://github.com/nookwarawich2109.png" width="60px;" alt="Warawich Silayong"/><br /><sub><b>Warawich S.</b></sub></a> | 📧 nookwarawich@gmail.com<br>🐙 [@nookwarawich2109](https://github.com/nookwarawich2109) | Null | - | [![View](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge)](portfolio-warawich.md) |
 | <img src="https://github.com/github.png" width="60px;" alt="Songpol Maneechot"/><br /><sub><b>Songpol M.</b></sub> | 📧 Songpol.manee@kmutt.ac.th | Null | - | [![View](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge)](portfolio-songpol.md) |
-| <img src="https://github.com/github.png" width="60px;" alt="Warakorn Saewu"/><br /><sub><b>Warakorn S.</b></sub> | 📧 warkorn.saew@kmutt.ac.th | Null | - | [![View](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge)](portfolio-warakorn.md) |
+| <img src="https://github.com/github.png" width="60px;" alt="Warakorn Saewu"/><br /><sub><b>Warakorn S.</b></sub> | 📧 warkorn.saew@kmutt.ac.th | Electronics & Embedded Systems Engineer | `STM32` `TypeScript` `React` `Bun` `MySQL` `Tailwind CSS` | [![View](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge)](portfolio-warakorn.md) |
 
 ---
 <div align="center">Made with 🧠 for Thai Education</div>
