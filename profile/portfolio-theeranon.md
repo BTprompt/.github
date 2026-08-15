@@ -44,6 +44,7 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 
 **IoT & Embedded Systems**
 > **Stingless Bee Hive Monitoring:** Lead Developer (Software & Hardware). Built an automated hive cooling system using a **Peltier module** and **ESP8266**, streaming data over **LoRaWAN** to a real-time web dashboard.
+> repo:https://github.com/Pond141205/FRA161_Bee_Hee_IOT.git
 
 **Pure Analog & Digital Logic**
 > **Chukchack Gearbox (Squash Ball Hitting Machine):** Lead Electrical. Designed motor control entirely with **Pure Logic Circuit** — NOR, AND, SR Latch, 555 Timer — with **no microcontroller**. Designed the H-Bridge motor drive and industrial safety power distribution.
