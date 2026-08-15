@@ -39,7 +39,7 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 **Industrial IoT — Flagship**
 > **Yokogawa — Real-Time LiDAR Stockpile Monitoring:** Built the full backend for a warehouse system tracking bulk-material pile volume from 8× Livox Mid-360 LiDARs — a 6-table Supabase schema, an IoU+centroid identity-tracking algorithm that keeps a pile's identity across scans as it's partially removed, a FastAPI service after PostgREST hit its limits, and an ISO 17757-aligned logging pipeline (Loki + InfluxDB + Grafana) with fail-safe queued delivery. Ran April through July.
 
-**Autonomous Mobile Robots (AMR)**
+**Robot Interface (Facobot AMR)**
 > **Facobot Control System:** Designed the operator interface for a warehouse AMR forklift — a React 19 app talking to a custom Python ROS 2 bridge node, with velocity jogging, Nav2 waypoint missions, and fleet management synced live to Supabase. Built a software safety layer (locked "Safe State," WebSocket watchdog, dead-man's-switch braking). A later DevOps audit cut the Docker image from 600+ MB to 94 MB and idle RAM from ~300 MB to 15 MB.
 > <br><br> <img src="assets/bhirabhat/Facobot-Robot.jpg" height="220"/>
 
