@@ -8,7 +8,7 @@
 
 <h1 align="center">Theeranon Thummachotvarasiri (Pond)</h1>
 <h3 align="center">Full-Stack Hardware & Systems Engineer</h3>
-<p align="center">FIBO, KMUTT · 2nd Year</p>
+<p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
   <a href="mailto:masterpond11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -21,12 +21,12 @@
 
 ### About
 
-Robotics and Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**, 2nd year. Works end-to-end across the full engineering stack — hardware and firmware, control and signal processing, up to data pipelines and web dashboards. Also leads teams: Team Manager on a patent-pending industrial system, and Technical Mentor for national space-tech finalists.
+Robotics and Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**, 3rd year. Works end-to-end across the full engineering stack — hardware and firmware, control and signal processing, up to data pipelines and web dashboards. Also leads teams: Team Manager on a patent-pending industrial system, and Technical Mentor for national space-tech finalists.
 
 | | |
 |---|---|
 | **Degree** | B.Eng. Robotics & Automation Engineering · FIBO, KMUTT |
-| **Year** | 2nd Year |
+| **Year** | 3rd Year |
 | **Hackathon** | JUMP Thailand 2026 Participant |
 | **Focus** | Control Systems, IoT/Firmware, Point Cloud & 3D Data Processing |
 
