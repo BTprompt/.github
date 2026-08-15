@@ -8,7 +8,7 @@
 
 <h1 align="center">Warakorn Saewu</h1>
 <h3 align="center">Electronics & Embedded Systems Engineer</h3>
-<p align="center">Bangkok, Thailand · FIBO, KMUTT</p>
+<p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
   <a href="mailto:warkorn.saew@kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -64,6 +64,15 @@ Undergraduate Robotics Engineering student at **KMUTT's Institute of Field Robot
 
 **Mechanical & Systems — 50%**
 Industrial (PLC-standard) Electrical Control · Actuator Integration
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Warakz&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warakz&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+</p>
 
 ---
 

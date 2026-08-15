@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="mailto:masterpond11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Pond141205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/theeranon-t"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -27,7 +28,8 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 |---|---|
 | **Degree** | B.Eng. Robotics & Automation Engineering · FIBO, KMUTT |
 | **Year** | 3rd Year |
-| **Focus** |Robotics, Control Systems, IoT/Firmware, Point Cloud & 3D Data Processing |
+| **Hackathon** | JUMP Thailand 2026 Participant |
+| **Focus** | Robotics, Control Systems, IoT/Firmware, Point Cloud & 3D Data Processing |
 
 ---
 
@@ -69,6 +71,13 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 `Full-Stack Web`
 
 ---
+
+### GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pond141205&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pond141205&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+</p>
 
 <div align="center">
 
