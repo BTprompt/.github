@@ -27,8 +27,7 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 |---|---|
 | **Degree** | B.Eng. Robotics & Automation Engineering · FIBO, KMUTT |
 | **Year** | 3rd Year |
-| **Hackathon** | JUMP Thailand 2026 Participant |
-| **Focus** | Control Systems, IoT/Firmware, Point Cloud & 3D Data Processing |
+| **Focus** |Robotics, Control Systems, IoT/Firmware, Point Cloud & 3D Data Processing |
 
 ---
 
