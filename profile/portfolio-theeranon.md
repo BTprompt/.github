@@ -4,7 +4,7 @@
 
 <br>
 
-<!-- TODO: add avatar-theeranon.jpg once a headshot is available, same as Warakorn's -->
+<img src="assets/theeranon/avatar-theeranon.jpg" width="120" style="border-radius:50%;"/>
 
 <h1 align="center">Theeranon Thummachotvarasiri (Pond)</h1>
 <h3 align="center">Team Leader & Software developer</h3>
@@ -72,6 +72,6 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 
 <div align="center">
 
-<sub><i>Portfolio photos and project images coming soon.</i></sub>
+<sub><i>Project photos coming soon.</i></sub>
 
 </div>

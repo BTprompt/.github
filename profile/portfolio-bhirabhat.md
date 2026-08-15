@@ -1,12 +1,14 @@
 <div align="center">
   
-### 🏠 <a href="README.md">Home</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-bhirabhat.md">Bhirabhat's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-songpol.md">Songpol's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-theeranon.md">Theeranon's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warakorn.md">Warakorn's Port</a> &nbsp; | &nbsp; 👨‍💻 <a href="portfolio-warawich.md">Warawich's Port</a>
+### <a href="README.md">Home</a> &nbsp; | &nbsp; <a href="portfolio-bhirabhat.md">Bhirabhat's Port</a> &nbsp; | &nbsp; <a href="portfolio-songpol.md">Songpol's Port</a> &nbsp; | &nbsp; <a href="portfolio-theeranon.md">Theeranon's Port</a> &nbsp; | &nbsp; <a href="portfolio-warakorn.md">Warakorn's Port</a> &nbsp; | &nbsp; <a href="portfolio-warawich.md">Warawich's Port</a>
 
 <br>
 
+<img src="assets/bhirabhat/avatar-bhirabhat.jpg" width="120" style="border-radius:50%;"/>
+
 <h1 align="center">Bhirabhat Klomjit</h1>
 <h3 align="center">Robotics & Embedded Systems Engineer</h3>
-<p align="center">📍 Bangkok, Thailand · 🎓 FIBO, KMUTT</p>
+<p align="center">Bangkok, Thailand · FIBO, KMUTT</p>
 
 <p align="center">
   <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -17,38 +19,38 @@
 
 ---
 
-### 👤 About
+### About
 
 Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**. Passionate about bridging hardware and software, with strong interests in embedded systems, motor control, and autonomous mobile robots (AMR). Experienced in system architecture design and full-stack integration for robotics applications.
 
 | | |
 |---|---|
-| 🎓 **Degree** | B.Eng. Robotics & Automation · FIBO, KMUTT |
-| 🚀 **Hackathon** | JUMP Thailand 2026 Participant |
-| 🏫 **Teaching** | Robotics, Python, and VEX IQ Mentor |
-| 🎯 **Seeking** | Robotics Engineering Opportunities |
+| **Degree** | B.Eng. Robotics & Automation · FIBO, KMUTT |
+| **Hackathon** | JUMP Thailand 2026 Participant |
+| **Teaching** | Robotics, Python, and VEX IQ Mentor |
+| **Seeking** | Robotics Engineering Opportunities |
 
 ---
 
-### 🚀 Highlight Projects & Technical Experience
+### Highlight Projects & Technical Experience
 
 I work across multiple layers of robotics — from hardware circuitry and MCU firmware to high-level system integration.
 
-**🤖 Autonomous Mobile Robots (AMR)**
+**Autonomous Mobile Robots (AMR)**
 > **Facobot Control System:** Designed a 3-layer architecture for an AMR. Implemented Grid-mapping features and developed a React-based Web Interface integrated with a Supabase database for fleet monitoring.
 
-**⚙️ Embedded Systems & Control**
+**Embedded Systems & Control**
 > **1-DOF Pick-and-Place Arm:** Designed and built a control box utilizing STM32 (NUCLEO-G474RE). Developed safety circuits, calculated motor stall currents, selected relays, and integrated a 24V DC NPN proximity sensor (PR08-1.5DN) for precise operation.
 
-**🛠️ Mechanical Design & Simulation**
+**Mechanical Design & Simulation**
 > **Grease Separator Machine:** Utilized SolidWorks for mechanical design and flow simulation of a machine separating grease from coolant water, including the electrical control box layout.
 
-**🔭 Algorithm & Computation**
+**Algorithm & Computation**
 > **Smart Telescope System:** Developed an algorithm for a smart telescope capable of offline star coordinate calculations utilizing a local sync timestamp.
 
 ---
 
-### 🛠️ Core Skills
+### Core Skills
 
 **Robotics & Software Architecture**
 ![ROS 2](https://img.shields.io/badge/ROS%202_Humble-22314E?style=flat&logo=ros&logoColor=white)
@@ -68,7 +70,7 @@ I work across multiple layers of robotics — from hardware circuitry and MCU fi
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Peaxtt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>

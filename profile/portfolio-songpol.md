@@ -4,7 +4,7 @@
 
 <br>
 
-<!-- TODO: add avatar-songpol.jpg once a headshot is available -->
+<img src="assets/songpol/avatar-songpol.jpg" width="120" style="border-radius:50%;"/>
 
 <h1 align="center">Songpol Maneechot (ทรงพล มณีโชติ)</h1>
 <h3 align="center">Full-Stack Robotics & Web-Connected Systems Engineer</h3>
