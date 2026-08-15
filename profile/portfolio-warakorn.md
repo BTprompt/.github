@@ -6,7 +6,7 @@
 
 <img src="assets/warakorn/avatar-warakorn.jpg" width="120" style="border-radius:50%;"/>
 
-<h1 align="center">Warakorn Saewu</h1>
+<h1 align="center">Warakorn Saewu (Big)</h1>
 <h3 align="center">Electronics & Embedded Systems Engineer</h3>
 <p align="center">FIBO, KMUTT · 3rd Year</p>
 
@@ -28,7 +28,6 @@ Undergraduate Robotics Engineering student at **KMUTT's Institute of Field Robot
 |---|---|
 | **Degree** | B.Eng. Robotics Engineering · FIBO, KMUTT |
 | **Year** | 3rd Year |
-| **Hackathon** | JUMP Thailand 2026 Participant |
 | **Focus** | Electronics, Embedded Systems & Motor Control |
 
 ---

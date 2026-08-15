@@ -6,9 +6,9 @@
 
 <img src="assets/songpol/avatar-songpol.jpg" width="120" style="border-radius:50%;"/>
 
-<h1 align="center">Songpol Maneechot (ทรงพล มณีโชติ)</h1>
+<h1 align="center">Songpol Maneechot (Leng)</h1>
 <h3 align="center">Full-Stack Robotics & Web-Connected Systems Engineer</h3>
-<p align="center">Bangkok, Thailand · FIBO, KMUTT</p>
+<p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
   <a href="mailto:leng.maneechote@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +27,7 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 | | |
 |---|---|
 | **Degree** | B.Eng. Robotics & Automation Engineering · FIBO, KMUTT |
-| **Hackathon** | JUMP Thailand 2026 Participant |
+| **Year** | 3rd Year |
 | **Focus** | Embedded Systems, Motor Dynamics & Control, Full-Stack Web Telemetry, Machine Design |
 
 ---

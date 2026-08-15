@@ -8,7 +8,7 @@
 
 <h1 align="center">Bhirabhat Klomjit (Pae)</h1>
 <h3 align="center">Tech Lead & AI Engineering</h3>
-<p align="center">FIBO, KMUTT · 2nd Year</p>
+<p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
   <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,11 +27,9 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 | | |
 |---|---|
 | **Degree** | B.Eng. Robotics & Automation · FIBO, KMUTT |
-| **Year** | 2nd Year |
-| **Hackathon** | JUMP Thailand 2026 Participant |
+| **Year** | 3rd Year |
 | **Focus** | Robotics System Integration, Web Interfaces, Embedded Firmware, ROS 2 |
-| **Teaching** | Robotics, Python, and VEX IQ Mentor |
-| **Seeking** | Robotics Engineering Opportunities |
+| **Teaching** | Robotics, Python, Make0 (Open Hardware) |
 
 ---
 
