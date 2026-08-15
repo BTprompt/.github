@@ -6,8 +6,8 @@
 
 <img src="assets/bhirabhat/avatar-bhirabhat.jpg" width="120" style="border-radius:50%;"/>
 
-<h1 align="center">Bhirabhat Klomjit</h1>
-<h3 align="center">Robotics & Embedded Systems Engineer</h3>
+<h1 align="center">Bhirabhat Klomjit (Pae)</h1>
+<h3 align="center">Tech Lead & AI Engineering</h3>
 <p align="center">Bangkok, Thailand · FIBO, KMUTT</p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### About
 
-Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**. Passionate about bridging hardware and software, with strong interests in embedded systems, motor control, and autonomous mobile robots (AMR). Experienced in system architecture design and full-stack integration for robotics applications.
+Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**, working part-time as a robotics software engineer alongside coursework. Full-stack across the whole robot: LiDAR/point-cloud pipelines and backend services on one end, ROS 2 middleware and control logic in the middle, STM32 firmware and electrical control boxes on the other.
 
 | | |
 |---|---|
@@ -34,36 +34,66 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 
 ### Highlight Projects & Technical Experience
 
-I work across multiple layers of robotics — from hardware circuitry and MCU firmware to high-level system integration.
+**Professional work (FIBO, part-time)**
+
+**Industrial IoT — Flagship**
+> **Yokogawa — Real-Time LiDAR Stockpile Monitoring:** Built the full backend for a warehouse system tracking bulk-material pile volume from 8× Livox Mid-360 LiDARs — a 6-table Supabase schema, an IoU+centroid identity-tracking algorithm that keeps a pile's identity across scans as it's partially removed, a FastAPI service after PostgREST hit its limits, and an ISO 17757-aligned logging pipeline (Loki + InfluxDB + Grafana) with fail-safe queued delivery. Ran April through July.
 
 **Autonomous Mobile Robots (AMR)**
-> **Facobot Control System:** Designed a 3-layer architecture for an AMR. Implemented Grid-mapping features and developed a React-based Web Interface integrated with a Supabase database for fleet monitoring.
+> **Facobot Control System:** Designed the operator interface for a warehouse AMR forklift — a React 19 app talking to a custom Python ROS 2 bridge node, with velocity jogging, Nav2 waypoint missions, and fleet management synced live to Supabase. Built a software safety layer (locked "Safe State," WebSocket watchdog, dead-man's-switch braking). A later DevOps audit cut the Docker image from 600+ MB to 94 MB and idle RAM from ~300 MB to 15 MB.
+> <br><br> <img src="assets/bhirabhat/Facobot-Robot.jpg" height="220"/>
+
+**Robotics Visualization**
+> **B2 Web RViz (PTTEP):** Built a browser-based replacement for desktop RViz to teleoperate a Unitree B2 quadruped from an iPad, no local ROS 2 install needed. React Three Fiber renders live LiDAR point clouds and an accumulating occupancy map entirely outside React's render cycle, plus MJPEG camera streaming and Nav2 waypoint following.
+
+**Navigation Math**
+> **Peplink GPS–Odometry Alignment:** Built a ROS 2 node aligning outdoor GPS with robot odometry — HDOP-weighted covariance estimation, a weighted SVD solver between GPS and odometry frames, and covariance rotation so RViz error ellipses reflect the true motion axes.
+
+**Coursework & competition**
 
 **Embedded Systems & Control**
 > **1-DOF Pick-and-Place Arm:** Designed and built a control box utilizing STM32 (NUCLEO-G474RE). Developed safety circuits, calculated motor stall currents, selected relays, and integrated a 24V DC NPN proximity sensor (PR08-1.5DN) for precise operation.
+> <br><br> <img src="assets/bhirabhat/1Dof-Pick-Place.jpg" height="220"/> <img src="assets/bhirabhat/1Dof-Electrical-Box.jpg" height="220"/>
 
-**Mechanical Design & Simulation**
-> **Grease Separator Machine:** Utilized SolidWorks for mechanical design and flow simulation of a machine separating grease from coolant water, including the electrical control box layout.
+**Mechanical Design & Fluid Simulation**
+> **Grease Separator (Oil Skimmer):** Developed the control system on a Raspberry Pi Pico — alternating timer logic to skim oil continuously, live pH sensing, automated LCD/light indicators. Used SolidWorks for 3D part design and flow simulation.
+> <br><br> <img src="assets/bhirabhat/Oil-Skimmer.jpg" height="220"/>
 
-**Algorithm & Computation**
-> **Smart Telescope System:** Developed an algorithm for a smart telescope capable of offline star coordinate calculations utilizing a local sync timestamp.
+**Pure Analog & Digital Logic**
+> **FRA161 Squash Ball Hitting Machine:** Designed the complete logic control board using pure electronic components (555 timers, relays) — no microcontroller. Built a custom PSU, custom PCBs, and a joystick interface for manual operation.
+> <br><br> <img src="assets/bhirabhat/Shooter-Joy.jpg" height="220"/> <img src="assets/bhirabhat/Prototype-Shooter-LogicControl.jpg" height="220"/> <img src="assets/bhirabhat/Shooter-Y1-2.jpg" height="220"/>
+
+**Automation & Conveyor Systems**
+> **LiftEase (Patient Transfer Bed):** Designed the mechanical structure and electrical control system for a bed-to-bed patient transfer system. Firmware on Raspberry Pi Pico for conveyor/motor control and Arduino for the directional button interface.
+> <br><br> <img src="assets/bhirabhat/Auto-Flip-Bed.jpg" height="220"/>
+
+**Robotics Competition**
+> **ABU Robocon (Meihua):** Developed the mobile-base software for the competition robot — low-level communication and movement logic using ROS 2 and micro-ROS.
+> <br><br> <img src="assets/bhirabhat/ABU.jpg" height="220"/>
 
 ---
 
 ### Core Skills
 
-**Robotics & Software Architecture**
+**Robotics & Intelligence**
 ![ROS 2](https://img.shields.io/badge/ROS%202_Humble-22314E?style=flat&logo=ros&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+`micro-ROS` `Point Cloud Processing` `SLAM & Nav2`
+
+**Backend & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+`FastAPI` `PostgreSQL / Supabase` `MQTT` `Grafana / Loki / InfluxDB`
 
-**Embedded & Hardware Design**
+**Web & Visualization**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+`React Three Fiber` `Zustand` `WebSocket`
+
+**Hardware & Firmware**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-&nbsp; Safety Circuits · Motor Control · Sensor Integration
+`Pure Logic Circuit` `Electrical Wiring`
 
-**Simulation & Tools**
+**CAD & Simulation**
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=flat&logo=dassaultsystemes&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
