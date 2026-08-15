@@ -4,7 +4,7 @@
 
 <br>
 
-<!-- TODO: add avatar-warawich.jpg once a headshot is available -->
+<img src="assets/warawich/avatar-warawich.jpg" width="120" style="border-radius:50%;"/>
 
 <h1 align="center">Warawich Silayong</h1>
 <h3 align="center">Subject Matter Expert & Project Manager</h3>
@@ -59,12 +59,3 @@ Robotics & Automation Engineering student at **KMUTT's Institute of Field Roboti
 **Electrical & Systems**
 `Industrial Electrical Control` `Microcontroller & Sensor Wiring` `System Architecture Planning`
 
----
-
-<div align="center">
-
-<img src="assets/warawich/page-1.png" width="800"/>
-
-<img src="assets/warawich/page-2.png" width="800"/>
-
-</div>
