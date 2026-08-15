@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/warawich/avatar-warawich.jpg" width="120" style="border-radius:50%;"/>
+<!-- TODO: add avatar-warawich.jpg once a headshot is available -->
 
 <h1 align="center">Warawich Silayong</h1>
 <h3 align="center">Subject Matter Expert & Project Manager</h3>
