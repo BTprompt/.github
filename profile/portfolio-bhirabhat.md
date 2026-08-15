@@ -58,7 +58,7 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 
 **Mechanical Design & Fluid Simulation**
 > **Grease Separator (Oil Skimmer):** Developed the control system on a Raspberry Pi Pico — alternating timer logic to skim oil continuously, live pH sensing, automated LCD/light indicators. Used SolidWorks for 3D part design and flow simulation.
-> <br><br> <img src="assets/bhirabhat/Oil-Skimmer.jpg" height="220"/>
+> <br><br> <img src="assets/bhirabhat/Oil-Skimmer.jpg" height="220"/> <img src="assets/bhirabhat/Oil-Skimmer-Scraper.jpg" height="220"/>
 
 **Pure Analog & Digital Logic**
 > **FRA161 Squash Ball Hitting Machine:** Designed the complete logic control board using pure electronic components (555 timers, relays) — no microcontroller. Built a custom PSU, custom PCBs, and a joystick interface for manual operation.
