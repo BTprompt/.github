@@ -71,11 +71,3 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=flat&logo=dassaultsystemes&logoColor=white)
 `Power Transmission` `Critical Speed Analysis` `Industrial Enclosures (TAMCO)` `DIN-Rail Wiring`
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lengkung55&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lengkung55&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</p>

@@ -59,12 +59,4 @@ Robotics & Automation Engineering student at **KMUTT's Institute of Field Roboti
 **Electrical & Systems**
 `Industrial Electrical Control` `Microcontroller & Sensor Wiring` `System Architecture Planning`
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nookwarawich2109&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nookwarawich2109&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</p>
 

@@ -69,14 +69,6 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 **Software**
 `Full-Stack Web`
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pond141205&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pond141205&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</p>
 
 <div align="center">
 

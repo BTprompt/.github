@@ -100,11 +100,3 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Peaxtt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peaxtt&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</p>
