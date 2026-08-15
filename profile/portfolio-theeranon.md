@@ -35,9 +35,11 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 
 **Industrial IoT — Patent-Pending**
 > **SISMO (Silo Stock Monitoring System):** Team Manager & Software Lead. Built an industrial system using **LiDAR** and **ESP32 over Cellular** to automate cement silo volume measurement, replacing manual "knocking." Engineered the backend pipeline converting raw **Point Cloud** data into a **3D Mesh** and then into Kg, with a real-time 3D dashboard. Reached **96.65%–98.45% accuracy**.
+> repo:https://github.com/Pond141205/FRA261-262_SISMO.git
 
 **Control Systems & Firmware**
 > **1-DOF Robotic Arm (Connection Rod Picker):** Control Systems Engineer & Firmware Developer. Developed **STM32** firmware, ran System Identification to extract electrical/mechanical parameters, and designed a **Cascade PID** control loop (1,000Hz velocity loop) with S-Curve trajectory planning. Resolved a static chattering issue via an **EMA filter**. Achieved precision picking within **37.6s**.
+> repo:https://github.com/Pond141205/FRA262-263_1-DOF-robot.git
 
 **National Space Tech — Leadership & Mentorship**
 > **Cansat-Rocket Thailand × UNISEC Thailand:** Team Leader & Core Developer (2023–2024), then Technical Mentor (2025–2026). Developed firmware for a Cansat and ground station using **ESP32** and **LoRa**, and mentored national finalists across software, firmware, and hardware integration. Won the **National Aerodynamic Award** (2023) and an Honorable Mention (2024).
