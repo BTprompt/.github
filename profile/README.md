@@ -8,17 +8,6 @@
 
 </div>
 
-<br>
-
-### Problem Statement
-[ใส่ปัญหา 1-2 ประโยค: เช่น ปัญหาที่ครูไทยหรือระบบการศึกษาไทยกำลังเจอ และแนวทางแก้ปัญหาของทีมด้วย AI ที่ตอบโจทย์โครงการ JUMP]
-
-### Hackathon Project
-
-| Repository | Description |
-|---|---|
-| **[[ชื่อโปรเจกต์ของทีม]](https://github.com/orgname/repo)** | [สรุปสิ่งที่จะทำไปแข่ง 1 บรรทัด เช่น แพลตฟอร์มวิเคราะห์การเรียนรู้ของนักเรียนด้วย AI] |
-
 ### Team
 
 | Profile | Contact | Role | Tech Stack | Portfolio |
