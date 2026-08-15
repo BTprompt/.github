@@ -38,7 +38,7 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 
 
 **Control Systems & Firmware**
-> **[1-DOF Robotic Arm (Connection Rod Picker)](https://github.com/Pond141205/FRA262-263_1-DOF-robot.git)** Control Systems Engineer & Firmware Developer. Developed **STM32** firmware, ran System Identification to extract electrical/mechanical parameters, and designed a **Cascade PID** control loop (1,000Hz velocity loop) with S-Curve trajectory planning. Resolved a static chattering issue via an **EMA filter**. Achieved precision picking within **37.6s**.
+> **[1-DOF Robotic Arm (Pick and Place)](https://github.com/Pond141205/FRA262-263_1-DOF-robot.git)** Control Systems Engineer & Firmware Developer. Developed **STM32** firmware, ran System Identification to extract electrical/mechanical parameters, and designed a **Cascade PID** control loop (1,000Hz velocity loop) with S-Curve trajectory planning. Resolved a static chattering issue via an **EMA filter**. Achieved precision picking within **37.6s**.
 
 
 **National Space Tech — Leadership & Mentorship**
