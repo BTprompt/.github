@@ -89,7 +89,7 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 
 **Backend & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-`FastAPI` `PostgreSQL / Supabase` `MQTT` `Grafana / Loki / InfluxDB`
+`FastAPI` `PostgreSQL / Supabase` `MQTT` `Grafana`
 
 **Frontend & Visualization**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
