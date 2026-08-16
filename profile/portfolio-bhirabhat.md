@@ -39,6 +39,8 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 
 **Database & Backend — Flagship**
 > **Yokogawa — Real-Time LiDAR Stockpile Monitoring:** Built the DB/backend platform for a warehouse system tracking bulk-material pile volume from 8× Livox Mid-360 LiDARs. The work order called for a Supabase pile-data platform with FIFO pile grouping; implementing it surfaced that Supabase's auto-generated API (PostgREST) couldn't run the needed business logic (fill-% from height-map sums, in-DB state transitions). Rebuilt it as a dedicated FastAPI service (`pile_monitor`) driving a **priority-ordered pile-slot state machine** (filling_up → prioritized → disappearing → cleared, slots queued by distance-to-furnace) — a more robust replacement for the originally-specified FIFO grouping. Also designed the 6-table schema, the IoU+centroid identity-tracking algorithm that keeps a pile's identity across scans as it's partially removed, and an ISO 17757-aligned logging pipeline (Loki + InfluxDB + Grafana). Ran April through July.
+> <br><br> <img src="assets/bhirabhat/Yokogawa-PointCloud.jpg" height="220"/> <img src="assets/bhirabhat/Yokogawa-Dashboard.jpg" height="220"/>
+> <br><br> <img src="assets/bhirabhat/Yokogawa-SlotStateMachine.png" width="600"/>
 
 **Robot Interface (Facobot AMR)**
 > **Facobot Control System:** Designed the operator interface for a warehouse AMR forklift — a React 19 app talking to a custom Python ROS 2 bridge node, with velocity jogging, Nav2 waypoint missions, and fleet management synced live to Supabase. Built a software safety layer (locked "Safe State," WebSocket watchdog, dead-man's-switch braking). A later DevOps audit cut the Docker image from 600+ MB to 94 MB and idle RAM from ~300 MB to 15 MB.
