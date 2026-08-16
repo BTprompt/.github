@@ -81,6 +81,11 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 ![ROS 2](https://img.shields.io/badge/ROS%202_Humble-22314E?style=flat&logo=ros&logoColor=white)
 `micro-ROS` `Point Cloud Processing` `SLAM & Nav2`
 
+**AI & Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+`Local LLM Deployment` `Chatbot Workflows`
+
 **Backend & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 `FastAPI` `PostgreSQL / Supabase` `MQTT` `Grafana / Loki / InfluxDB`

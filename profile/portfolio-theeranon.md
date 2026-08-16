@@ -66,7 +66,9 @@ Robotics and Automation Engineering student at **KMUTT's Institute of Field Robo
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 `ESP32` `LoRaWAN` `Pure Logic Circuit`
 
-**Software**
+**Backend & Software**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 `Full-Stack Web`
 
 
