@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 BTPrompt
+# 🎓 BTprompt
 ### AI for the Future of Thai Education · JUMP Thailand Hackathon 2026
 
 [![JUMP Thailand 2026](https://img.shields.io/badge/JUMP_Thailand-2026-0057FF?style=flat-square)](https://www.jumpthailand.com)
@@ -20,4 +20,4 @@
 
 <br>
 
-<div align="center"><sub>🎓 BTPrompt · JUMP Thailand Hackathon 2026</sub></div>
+<div align="center"><sub>🎓 BTprompt · JUMP Thailand Hackathon 2026</sub></div>
