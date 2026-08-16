@@ -90,9 +90,9 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 `FastAPI` `PostgreSQL / Supabase` `MQTT` `Grafana / Loki / InfluxDB`
 
-**Web & Visualization**
+**Frontend & Visualization**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-`React Three Fiber` `Zustand` `WebSocket`
+`React Three Fiber` `Zustand` `WebSocket` `SPA Architecture`
 
 **Hardware & Firmware**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
