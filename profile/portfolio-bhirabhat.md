@@ -7,7 +7,7 @@
 <img src="assets/bhirabhat/avatar-bhirabhat.jpg" width="120" style="border-radius:50%;"/>
 
 <h1 align="center">Bhirabhat Klomjit (Pae)</h1>
-<h3 align="center">Tech Lead & AI Engineering</h3>
+<h3 align="center">Tech Lead, Systems Integrator & AI Engineering</h3>
 <p align="center">FIBO, KMUTT · 3rd Year</p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### About
 
-Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**, working part-time as a robotics software engineer alongside coursework. Full-stack across the whole robot: LiDAR/point-cloud pipelines and backend services on one end, ROS 2 middleware and control logic in the middle, STM32 firmware and electrical control boxes on the other.
+Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**, working part-time as a robotics software engineer alongside coursework. Works as a systems integrator across the whole robot: LiDAR/point-cloud pipelines and backend services on one end, ROS 2 middleware and control logic in the middle, STM32 firmware and electrical control boxes on the other.
 
 | | |
 |---|---|
@@ -94,6 +94,11 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 **Frontend & Visualization**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 `React Three Fiber` `Zustand` `WebSocket` `SPA Architecture`
+
+**DevOps & System Integration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+`TF2` `Docker Compose` `Cross-Service Architecture`
 
 **Hardware & Firmware**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
