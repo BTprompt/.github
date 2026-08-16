@@ -84,7 +84,8 @@ Undergraduate Robotics & Automation Engineering student at **KMUTT's Institute o
 **AI & Automation**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-`Local LLM Deployment` `Chatbot Workflows`
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+`Local LLM Deployment` `Chatbot Workflows` `Prompt Engineering` `AI-Assisted Technical Writing`
 
 **Backend & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
